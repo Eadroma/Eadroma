@@ -75,7 +75,10 @@
 </a>
 <a href="https://linkedin.com/in/saif-boukottaya" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+</a>
+<a href="https://discord.gg/UwuhtTzH3J">
+<img src="https://img.shields.io/badge/-Eadroma%235991-%232c2f33?style=flat-square&logo=discord" height="25">
+</a>
 </div>  
 
 <p align=center>

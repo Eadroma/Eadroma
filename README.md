@@ -79,12 +79,7 @@
 <a href="https://discord.gg/UwuhtTzH3J">
 <img src="https://img.shields.io/badge/-Eadroma%235991-%232c2f33?style=flat-square&logo=discord" height="25">
 </a>
-</div>  
-
-<p align=center>
-<img src="https://discord-readme-badge.vercel.app/api?id=194543374533918720" />
-</p>
-  
+</div>    
 
 <br/>  
 

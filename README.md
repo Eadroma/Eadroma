@@ -83,10 +83,6 @@
 
 <br/>  
 
-
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=mwbqssnop1ffczqkutt946v9u&cover_image=true&theme=default" /></div>  
-
 <br/>  
 
   

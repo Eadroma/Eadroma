@@ -1,10 +1,10 @@
 ### <div align="center">I'm Saif aka Eadroma, a full-stack developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on a React Website for the real estate agency [Reeasy](https://reeasy.fr/)
+<!-- - 🔭 I’m currently working on  -->
   
 
-- 🌱 I’m currently learning Vuejs and React  
+- 🌱 I’m currently learning Typescript
   
 
 - ⚡ Fun fact: I use tabs over spaces  

@@ -5,9 +5,7 @@
   
 
 - 🌱 I’m currently learning Typescript
-  
 
-- ⚡ Fun fact: I use tabs over spaces  
   
 
 <br/>  
